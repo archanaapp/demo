@@ -4,4 +4,6 @@ demo for git repo
 
 updated file
 
-## this sub header gitn
+## this sub header git
+
+made changes
